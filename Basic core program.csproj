@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Basic_core_program.Power2</StartupObject>
+    <StartupObject>Basic_core_program.Harmonic_number</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Flipcoin.cs" />
+    <Compile Include="Harmonic number.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="Power2.cs" />
     <Compile Include="Program.cs" />
