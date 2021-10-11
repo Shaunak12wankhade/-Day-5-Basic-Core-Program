@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Basic_core_program.Swap_two_numbers</StartupObject>
+    <StartupObject>Basic_core_program.OddorEven</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Flipcoin.cs" />
     <Compile Include="Harmonic number.cs" />
     <Compile Include="Leapyear.cs" />
+    <Compile Include="OddorEven.cs" />
     <Compile Include="Power2.cs" />
     <Compile Include="Prime factorization.cs" />
     <Compile Include="Program.cs" />
