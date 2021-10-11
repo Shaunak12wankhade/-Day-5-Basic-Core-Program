@@ -14,7 +14,7 @@ namespace Basic_core_program
             Console.WriteLine("Please enter the alphabet");
             a = char.Parse(Console.ReadLine());
 
-            if (a == 'a'| a == 'e'| a == 'i'| a== 'o'| a == 'u')
+            if (a == 'a'| a == 'e'| a == 'i'| a== 'o'|| a == 'u')
                 {
                    Console.WriteLine("Alphabet is a Vowel");
                 }

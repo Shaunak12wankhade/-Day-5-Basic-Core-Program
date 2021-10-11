@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Basic_core_program.VowelsorConsonants</StartupObject>
+    <StartupObject>Basic_core_program.Largestamong3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Flipcoin.cs" />
     <Compile Include="Harmonic number.cs" />
+    <Compile Include="Largestamong3.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="OddorEven.cs" />
     <Compile Include="Power2.cs" />
