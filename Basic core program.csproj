@@ -50,6 +50,7 @@
     <Compile Include="Harmonic number.cs" />
     <Compile Include="Leapyear.cs" />
     <Compile Include="Power2.cs" />
+    <Compile Include="Prime factorization.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
